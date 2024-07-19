@@ -1,6 +1,7 @@
 # Desafio Smart Front End
 
 Bem-vindo ao projeto **Desafio Smart Front End**! Este é um aplicativo front-end construído com React, TypeScript, Tailwind CSS e Jest para testes. Aqui você pode ver informações detalhadas sobre a instalação, execução, testes, estrutura do projeto, contribuição e licença.
+Para ver todos os commits em ordem cronologica acesse: https://bitbucket.org/fernandoforastieri/smart-desafio-front-end/src/main/
 
 ## Índice
 
